@@ -1,4 +1,4 @@
-# ID-Year-Detect-for-Engineering-Students-(e.g.-1st-year-2nd-year-3rd-year-4th-year)
+# Engineering Year Detection Using ID Band Color Recognition
 
 In our college students are having various band colors for their ID card. 
 
